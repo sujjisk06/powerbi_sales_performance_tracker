@@ -1,0 +1,10 @@
+Key Insights 
+- Sales performance varies significantly across regions, indicating uneven market penetration and growth opportunities in underperforming areas.
+
+- A small number of products contribute the majority of total sales, highlighting product concentration and dependency risks.
+
+- Some high-revenue products generate low profit margins, suggesting the need for pricing or cost optimization.
+
+- Sales show clear seasonal patterns, with certain months consistently outperforming others.
+
+- Regions with high sales volume do not always deliver high profitability, emphasizing the importance of profit-driven decision making.
